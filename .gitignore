@@ -1,0 +1,6 @@
+# Ignorer les dossiers spécifiques de CrossyRoad
+CrossyRoad/Library/
+CrossyRoad/Logs/
+CrossyRoad/Temp/
+CrossyRoad/Packages/
+CrossyRoad/UserSettings/
